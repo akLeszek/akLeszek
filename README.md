@@ -1,6 +1,15 @@
 ## 👋  About me
 Hi, I am Adrian, I am currently a second-year student at the University of Silesia in Katowice at the faculty of science and technology. I like football, board games, hip-hop and anime.
 
+## 🧮 Projects
+|Repo|Status&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Description|
+|:---|:---|:---:|
+|[DiceGame](https://github.com/akLeszek/DiceGame)|Finished||
+|[ParcelLocker](https://github.com/akLeszek/ParcelLocker)|Finished||
+|[Enigma](https://github.com/akLeszek/Enigma)|Finished||
+|[CoronaTracker](https://github.com/akLeszek/CoronaTracker)|Finished||
+|[bookie-lovers](https://github.com/akLeszek/bookie-lovers)|In progress||
+
 ## ✨ Skill's
 * OOP languages: **Java** and **C++**,
 * Low level programming in **assembly**,
