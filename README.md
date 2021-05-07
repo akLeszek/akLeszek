@@ -17,7 +17,7 @@ Hi, I am Adrian, I am currently a second-year student at the University of Siles
 * fundaments of AI,
 * about design patterns and unit testing in Java.
 
-## 💞️ I’m looking for intership or remote job.
+### 💞️ I’m looking for intership or remote job.
 
 <!---
 akLeszek/akLeszek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
