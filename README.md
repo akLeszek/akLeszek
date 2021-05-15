@@ -31,6 +31,8 @@ Hi, I am Adrian, I am currently a second-year student at the University of Siles
 
 ### 💞️ I’m looking for intership or remote job.
 
+## [My CV](https://github.com/akLeszek/AdrianLes_CV/blob/main/AdrianLes_CV.pdf)
+
 <!---
 akLeszek/akLeszek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
