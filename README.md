@@ -7,8 +7,6 @@ Hi, I am Adrian, I am currently a second-year student at the University of Siles
 |[DiceGame](https://github.com/akLeszek/DiceGame)|Finished|Simple console game written in Java. Consists in guessing the number of dice rolled.|
 |[ParcelLocker](https://github.com/akLeszek/ParcelLocker)|Finished|Console aplication simulating a parce locker. Written in Java.|
 |[Enigma](https://github.com/akLeszek/Enigma)|Finished|A console application that implements two types of encryption and decryption. Written in Java using design patterns and unit tests.|
-|[CoronaTracker](https://github.com/akLeszek/CoronaTracker)|Finished|An application aimed at showing the number of COVID-19 cases. It was created using Spring Boot.|
-|[bookie-lovers](https://github.com/akLeszek/bookie-lovers)|In progress|An application whose main target group will be book readers.|
 
 ## ✨ Skill's
 * OOP languages: **Java** and **C++**,
