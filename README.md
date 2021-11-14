@@ -9,8 +9,8 @@ Hi, I am Adrian, I am currently a second-year student at the University of Siles
 |[Enigma](https://github.com/akLeszek/Enigma)|Finished|A console application that implements two types of encryption and decryption. Written in Java using design patterns and unit tests.|
 
 ## ✨ Skill's
-* OOP languages: **Java** and **C++**,
-* Low level programming in **assembly**,
+* OOP languages: **Java**,
+* Basics of **C++**, **Python**, **assembly**,
 * Basic knowledge of designing combinational and digital circuits,
 * Programming of **AVR** microcontrollers,
 * Development and use of database systems,
