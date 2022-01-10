@@ -1,4 +1,4 @@
-## 👋  About me
+<!-- ## 👋  About me
 Hi, I am Adrian, I am currently a second-year student at the University of Silesia in Katowice at the faculty of science and technology. I like football, board games, hip-hop and anime.
 
 ## 🧮 Projects
@@ -29,7 +29,7 @@ Hi, I am Adrian, I am currently a second-year student at the University of Siles
 
 ### 💞️ I’m looking for intership or remote job.
 
-## [My CV](https://github.com/akLeszek/AdrianLes_CV/blob/main/AdrianLes_CV.pdf)
+## [My CV](https://github.com/akLeszek/AdrianLes_CV/blob/main/AdrianLes_CV.pdf) -->
 
 <!---
 akLeszek/akLeszek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
