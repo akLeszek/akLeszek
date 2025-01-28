@@ -1,43 +1,51 @@
-<!-- ## 👋  About me
-Hi, I am Adrian, I am currently a second-year student at the University of Silesia in Katowice at the faculty of science and technology. I like football, board games, hip-hop and anime.
+# 👨‍💻 Adrian Leś
 
-## 🧮 Projects
-|Repo|Status&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Description|
-|:---|:---|:---:|
-|[DiceGame](https://github.com/akLeszek/DiceGame)|Finished|Simple console game written in Java. Consists in guessing the number of dice rolled.|
-|[ParcelLocker](https://github.com/akLeszek/ParcelLocker)|Finished|Console aplication simulating a parce locker. Written in Java.|
-|[Enigma](https://github.com/akLeszek/Enigma)|Finished|A console application that implements two types of encryption and decryption. Written in Java using design patterns and unit tests.|
+## About Me
+Motivated and detail-oriented programmer passionate about developing applications and systems that enhance user experiences. I continuously expand my skills through books, online courses, and practical projects. When I'm not coding, I enjoy hiking, personal development, and spending time with friends.
 
-## ✨ Skill's
-* OOP in **Java**,
-* Basics of **C++**, **Python**, **assembly**,
-* Basic knowledge of designing combinational and digital circuits,
-* Programming of **AVR** microcontrollers,
-* Development and use of database systems,
-* RDBMS or RDSMS, programming and design with **SQL**,
-* Configuration and management of operating systems from the **Windows** and **Linux** family,
-* Creation and management of computer networks,
-* Writing in typesetting system **TeX**.
+---
 
-## 🌱 I'm lerning ...
-* python programming,
-* fundaments of AI,
-* about design patterns and unit testing in Java.
+## 📫 Contact Me
+- **Location:** Jaworzno/Katowice, Poland
+- **Email:** [akleszek99@gmail.com](mailto:akleszek99@gmail.com)
+- **GitHub:** [github.com/akLeszek](https://github.com/akLeszek)
 
-## 🎆 Future plans
-* Become familiar with Docker and Kubernetes.
+---
 
-### 💞️ I’m looking for intership or remote job.
+## 💼 Professional Experience
+### Junior Programmer @ EqSystem Technology Sp. z o.o. *(March 2022 – Present)*
+- Maintain and optimize customer-facing systems to ensure operational stability.
+- Troubleshoot and resolve system bugs for seamless client experiences.
+- Collaborate on developing application standards and synchronization processes.
+- **Technologies:** Java, Groovy, SQL, JasperReports, VisualVM, Git.
 
-## [My CV](https://github.com/akLeszek/AdrianLes_CV/blob/main/AdrianLes_CV.pdf) -->
+### Trainee @ ProCertiv Sp. z o.o. *(July 2021)*
+- Developed a Python application for generating graphical reports from CSV data.
+- Automated the export of reports into HTML format for improved usability.
+- **Technologies:** Python, Tkinter, Numpy.
 
-<!---
-akLeszek/akLeszek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+---
 
-- 👋 Hi, I’m @akLeszek
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+## 🎓 Academic Projects
+### University System of Message Exchange
+- A ticket-based communication system designed to improve interactions between students and the dean's office.
+- **Technologies:** Java, TypeScript, Spring Boot, Angular, MSSQL.
+
+---
+
+## 🛠️ Technical Skills
+- **Programming Languages:** Java, Groovy, Python, SQL, T-SQL.
+- **Frameworks & Tools:** Spring Boot, MSSQL, JasperReports, VisualVM.
+- **Version Control:** Git.
+
+---
+
+## 🎓 Education
+- **University of Silesia in Katowice** *(Bachelor of Computer Science, Expected 2025)*
+- **CKZIU in Jaworzno** *(IT Technician, 2015–2019)*
+
+---
+
+## 🌟 Additional Information
+- **Languages:** Polish (Native), English (B1).
+- **Driving License:** Category B.
