@@ -8,7 +8,6 @@ Motivated and detail-oriented programmer passionate about developing application
 ## 📫 Contact Me
 - **Location:** Jaworzno/Katowice, Poland
 - **Email:** [akleszek99@gmail.com](mailto:akleszek99@gmail.com)
-- **GitHub:** [github.com/akLeszek](https://github.com/akLeszek)
 
 ---
 
