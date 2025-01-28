@@ -8,7 +8,7 @@ Motivated and detail-oriented programmer passionate about developing application
 ## 📫 Contact Me
 - **Location:** Jaworzno/Katowice, Poland
 - **Email:** [akleszek99@gmail.com](mailto:akleszek99@gmail.com)
-
+- **LinkedIn:** [linkedin.com/in/akLeszek/](https://www.linkedin.com/in/akleszek/)
 ---
 
 ## 💼 Professional Experience
